@@ -1,6 +1,6 @@
 #include <iostream>
 
-int _main(void) {
+int main1(void) {
 	//using namespace std;
 	std::cout << "hello world!";
 	std::cout << std::endl;
