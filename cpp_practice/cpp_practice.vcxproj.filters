@@ -24,5 +24,20 @@
     <ClCompile Include="def_func.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="limits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="inch2foot.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="to_degree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="usa_population.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="to_usa_mpg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

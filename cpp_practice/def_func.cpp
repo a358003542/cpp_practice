@@ -8,7 +8,7 @@ int add(int a, int b) {
 
 int add(int, int);
 
-int main(void) {
+int main3(void) {
     using namespace std;
 
 	int x;
