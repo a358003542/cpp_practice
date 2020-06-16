@@ -11,7 +11,7 @@ struct Pizza {
 	float weight;
 };
 
-int main(void) {
+int main13(void) {
 	int x;
 
 	cout << "please input the array length: ";

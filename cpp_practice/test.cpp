@@ -1,26 +1,13 @@
 #include <iostream>
 #include <string>
-#include <vector>
 
 
 int main0(void) {
 	using namespace std;
 
-	int x;
 
-	cout << "please input the array length: ";
-	cin >> x;
-
-	vector<int> vec;
-
-	for (int i = 0; i < x; i++) {
-		int tmp;
-		cin >> tmp;
-		vec.push_back(tmp);
-	}
-
-	for (int i = 0; i < x; i++) {
-		cout << vec[i] << endl;
+	for (int i : {1, 2, 3, 4}) {
+		cout << i << endl;
 	}
 
 	return 0;
