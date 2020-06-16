@@ -1,7 +1,7 @@
 #include <iostream>
 
 
-int main() {
+int main15() {
 	using namespace std;
 
 	int start_int;
