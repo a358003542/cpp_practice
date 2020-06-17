@@ -1,21 +1,26 @@
 #include <iostream>
 
 
-int main16() {
+int main17() {
 	using namespace std;
 
-
-	int temp;
 	int sum = 0;
 
-	do {
-		cout << "please input a number, input 0 quit : ";
-		cin >> temp;
-		sum += temp;
-	} while (temp);
+	string months[12] = { "jan","feb","march","april","may","june","july","august","september","october","november","december" };
+	int sales[12] = {};
 
-	cout << "your input number summation is " << sum << endl;
+	int count = 0;
+	for (string month : months) {
+		cout << "please input the sale of amount in " << month << " : ";
+		cin >> sales[count];
 
+		count++;
+	}
+
+	for (int x : sales) {
+		sum += x;
+	}
+	cout << "this year's sale amount is: " << sum << endl;
 
 	return 0;
 }
