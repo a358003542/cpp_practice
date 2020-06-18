@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int main20() {
 	using namespace std;
 
 	int rows;
