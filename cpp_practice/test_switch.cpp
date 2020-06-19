@@ -23,7 +23,7 @@ void comfort() {
 }
 
 
-int main() {
+int main22() {
 
 	showmenu();
 
