@@ -57,5 +57,38 @@
     <ClCompile Include="xiti_c4_7.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="cinfish.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="nested.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_cctype.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_switch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="textin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xiti_c5_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xiti_c5_3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xiti_c5_5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xiti_c5_6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xiti_c5_10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cinfish2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
