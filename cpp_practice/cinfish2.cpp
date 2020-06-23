@@ -3,7 +3,7 @@
 
 const int Max = 5;
 
-int main() {
+int main24() {
 	using namespace std;
 
 	double fish[Max];
