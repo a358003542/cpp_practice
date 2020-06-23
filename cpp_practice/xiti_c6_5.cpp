@@ -1,6 +1,6 @@
 #include <iostream>
 
-
+int calc_tax(int);
 
 int calc_tax(int x) {
 	float tax = 0;

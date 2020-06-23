@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 
-int main() {
+int main29() {
 	using namespace std;
 
 	string filename;

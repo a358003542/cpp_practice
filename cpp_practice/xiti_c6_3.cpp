@@ -1,6 +1,7 @@
 #include <iostream>
 
 using namespace std;
+void help();
 
 void help() {
 	cout << "c) carnivore              p) pianist\n" <<
