@@ -138,6 +138,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="arrfun.cpp" />
     <ClCompile Include="cinfish.cpp" />
     <ClCompile Include="cinfish2.cpp" />
     <ClCompile Include="def_func.cpp" />
@@ -146,8 +147,10 @@
     <ClCompile Include="inch2foot.cpp" />
     <ClCompile Include="limits.cpp" />
     <ClCompile Include="nested.cpp" />
+    <ClCompile Include="outfile.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="test_cctype.cpp" />
+    <ClCompile Include="test_func_point.cpp" />
     <ClCompile Include="test_switch.cpp" />
     <ClCompile Include="textin.cpp" />
     <ClCompile Include="to_degree.cpp" />
@@ -163,6 +166,15 @@
     <ClCompile Include="xiti_c5_3.cpp" />
     <ClCompile Include="xiti_c5_5.cpp" />
     <ClCompile Include="xiti_c5_6.cpp" />
+    <ClCompile Include="xiti_c6_1.cpp" />
+    <ClCompile Include="xiti_c6_3.cpp" />
+    <ClCompile Include="xiti_c6_5.cpp" />
+    <ClCompile Include="xiti_c6_8.cpp" />
+    <ClCompile Include="xiti_c7_1.cpp" />
+    <ClCompile Include="xiti_c7_10.cpp" />
+    <ClCompile Include="xiti_c7_3.cpp" />
+    <ClCompile Include="xiti_c7_5.cpp" />
+    <ClCompile Include="xiti_c7_9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
