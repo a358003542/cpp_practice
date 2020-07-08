@@ -126,5 +126,11 @@
     <ClCompile Include="xiti_c7_10.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="xiti_c8_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xiti_c8_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

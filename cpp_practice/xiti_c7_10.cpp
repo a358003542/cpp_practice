@@ -27,8 +27,8 @@ double multiplication(double x, double y) {
 }
 
 
-int main() {
-//int main36() {
+//int main() {
+int main36() {
 	double (*pf[3])(double, double);
 
 	pf[0] = addition;
