@@ -177,6 +177,8 @@
     <ClCompile Include="xiti_c7_9.cpp" />
     <ClCompile Include="xiti_c8_1.cpp" />
     <ClCompile Include="xiti_c8_2.cpp" />
+    <ClCompile Include="xiti_c8_5.cpp" />
+    <ClCompile Include="xiti_c8_6.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -26,8 +26,8 @@ void print_CandyBar(const CandyBar& candybar) {
 		" weight: " << candybar.weight << " calories: " << candybar.calories;
 }
 
-int main() {
-//int main38() {
+//int main() {
+int main38() {
 
 	CandyBar candybar;
 	
