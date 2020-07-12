@@ -31,8 +31,8 @@ template<> char * maxn(char * arr[], int n) {
 }
 
 
-int main() {
-	//int main40() {
+//int main() {
+int main40() {
 
 	int arr1[6] = {-5, 45,54,1,8,0 };
 	int max1;

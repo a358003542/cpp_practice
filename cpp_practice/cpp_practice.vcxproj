@@ -141,6 +141,7 @@
     <ClCompile Include="arrfun.cpp" />
     <ClCompile Include="cinfish.cpp" />
     <ClCompile Include="cinfish2.cpp" />
+    <ClCompile Include="coordin.cpp" />
     <ClCompile Include="def_func.cpp" />
     <ClCompile Include="getinfo.cpp" />
     <ClCompile Include="hello.cpp" />
@@ -151,6 +152,7 @@
     <ClCompile Include="test.cpp" />
     <ClCompile Include="test_cctype.cpp" />
     <ClCompile Include="test_func_point.cpp" />
+    <ClCompile Include="test_head_file.cpp" />
     <ClCompile Include="test_switch.cpp" />
     <ClCompile Include="textin.cpp" />
     <ClCompile Include="to_degree.cpp" />
@@ -179,6 +181,9 @@
     <ClCompile Include="xiti_c8_2.cpp" />
     <ClCompile Include="xiti_c8_5.cpp" />
     <ClCompile Include="xiti_c8_6.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="coordin.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

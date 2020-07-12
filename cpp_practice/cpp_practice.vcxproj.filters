@@ -138,5 +138,16 @@
     <ClCompile Include="xiti_c8_6.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test_head_file.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="coordin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="coordin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
