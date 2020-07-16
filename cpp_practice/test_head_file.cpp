@@ -3,7 +3,8 @@
 
 using namespace std;
 
-int main() {
+//int main() {
+int main41(){
 	rect rplace;
 	polar pplace;
 

@@ -144,9 +144,36 @@
     <ClCompile Include="coordin.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="namesp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_namesp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="golf.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xiti_c9_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sales.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xiti_c9_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="coordin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="namesp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="golf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sales.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
