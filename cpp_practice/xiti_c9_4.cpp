@@ -2,8 +2,8 @@
 #include "sales.h"
 
 
-int main() {
-//int main44(){
+//int main() {
+int main44(){
 	double ar[4] = { 1.0,3.2,2.5,5.6 };
 
 	using SALES::Sales;

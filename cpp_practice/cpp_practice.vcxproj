@@ -151,17 +151,21 @@
     <ClCompile Include="namesp.cpp" />
     <ClCompile Include="nested.cpp" />
     <ClCompile Include="outfile.cpp" />
+    <ClCompile Include="person.cpp" />
     <ClCompile Include="sales.cpp" />
+    <ClCompile Include="stack.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="test_cctype.cpp" />
     <ClCompile Include="test_func_point.cpp" />
     <ClCompile Include="test_head_file.cpp" />
     <ClCompile Include="test_namesp.cpp" />
+    <ClCompile Include="test_stack.cpp" />
     <ClCompile Include="test_switch.cpp" />
     <ClCompile Include="textin.cpp" />
     <ClCompile Include="to_degree.cpp" />
     <ClCompile Include="to_usa_mpg.cpp" />
     <ClCompile Include="usa_population.cpp" />
+    <ClCompile Include="xiti_c10_2.cpp" />
     <ClCompile Include="xiti_c4_1.cpp" />
     <ClCompile Include="xiti_c4_3.cpp" />
     <ClCompile Include="xiti_c4_5.cpp" />
@@ -192,7 +196,9 @@
     <ClInclude Include="coordin.h" />
     <ClInclude Include="golf.h" />
     <ClInclude Include="namesp.h" />
+    <ClInclude Include="person.h" />
     <ClInclude Include="sales.h" />
+    <ClInclude Include="stack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
