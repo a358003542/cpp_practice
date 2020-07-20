@@ -2,7 +2,8 @@
 #include "person.h"
 
 
-int main() {
+//int main() {
+int main46(){
 	using namespace std;
 
 	Person one;

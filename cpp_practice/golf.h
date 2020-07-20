@@ -28,5 +28,17 @@ void handicap(golf& g, int hc);
 // function displays contents of golf structure
 void showgolf(const golf& g);
 
+class Golf {
+private:
+    static const int Len = 40;
+    char fullname[Len];
+    int handicap;
+public:
+    Golf();
+    Golf(const char* name, int hc);
+    void showgolf();
+    void set_handicap(int hc);
+};
+
 
 #endif
