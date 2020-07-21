@@ -150,6 +150,7 @@
     <ClCompile Include="limits.cpp" />
     <ClCompile Include="list.cpp" />
     <ClCompile Include="move.cpp" />
+    <ClCompile Include="mytime.cpp" />
     <ClCompile Include="namesp.cpp" />
     <ClCompile Include="nested.cpp" />
     <ClCompile Include="outfile.cpp" />
@@ -160,13 +161,16 @@
     <ClCompile Include="test_cctype.cpp" />
     <ClCompile Include="test_func_point.cpp" />
     <ClCompile Include="test_head_file.cpp" />
+    <ClCompile Include="test_mytime.cpp" />
     <ClCompile Include="test_namesp.cpp" />
     <ClCompile Include="test_stack.cpp" />
     <ClCompile Include="test_switch.cpp" />
+    <ClCompile Include="test_vector.cpp" />
     <ClCompile Include="textin.cpp" />
     <ClCompile Include="to_degree.cpp" />
     <ClCompile Include="to_usa_mpg.cpp" />
     <ClCompile Include="usa_population.cpp" />
+    <ClCompile Include="vector.cpp" />
     <ClCompile Include="xiti_c10_2.cpp" />
     <ClCompile Include="xiti_c10_3.cpp" />
     <ClCompile Include="xiti_c10_6.cpp" />
@@ -202,10 +206,12 @@
     <ClInclude Include="golf.h" />
     <ClInclude Include="list.h" />
     <ClInclude Include="move.h" />
+    <ClInclude Include="mytime.h" />
     <ClInclude Include="namesp.h" />
     <ClInclude Include="person.h" />
     <ClInclude Include="sales.h" />
     <ClInclude Include="stack.h" />
+    <ClInclude Include="vector.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

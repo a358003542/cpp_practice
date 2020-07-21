@@ -6,7 +6,8 @@ ItemType multiply2(ItemType& item) {
 	return item * 2;
 }
 
-int main() {
+//int main() {
+	int main49(){
 	List list1 = List();
 
 	list1.show_list();

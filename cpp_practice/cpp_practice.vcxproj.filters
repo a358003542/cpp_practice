@@ -189,6 +189,18 @@
     <ClCompile Include="xiti_c10_8.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="mytime.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_mytime.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_vector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="coordin.h">
@@ -213,6 +225,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="list.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mytime.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="vector.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
