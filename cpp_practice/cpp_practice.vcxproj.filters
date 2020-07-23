@@ -201,6 +201,21 @@
     <ClCompile Include="test_vector.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="xiti_c11_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stonewt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xiti_c11_5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xiti_c11_7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="complex0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="coordin.h">
@@ -231,6 +246,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="vector.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stonewt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="complex0.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

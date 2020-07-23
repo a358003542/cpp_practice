@@ -1,8 +1,8 @@
 #include <iostream>
 #include "vector.h"
 
-int main() {
-	//int main51(){
+//int main() {
+	int main51(){
 	using std::cout;
 	using std::endl;
 	using VECTOR::Vector;
