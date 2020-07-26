@@ -216,6 +216,15 @@
     <ClCompile Include="complex0.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="queue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bank.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xiti_c12_5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="coordin.h">
@@ -252,6 +261,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="complex0.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="queue.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

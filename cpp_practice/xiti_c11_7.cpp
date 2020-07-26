@@ -2,8 +2,8 @@
 #include "complex0.h"
 
 
-int main() {
-//int main54() {
+//int main() {
+int main54() {
 
 	using namespace std;
 	complex a(3.0, 4.0);
