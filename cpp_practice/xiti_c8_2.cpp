@@ -15,7 +15,7 @@ void print_CandyBar(const CandyBar& candybar);
 
 
 CandyBar& init_CandyBar(CandyBar& candybar, const char * name, double weight, int calories) {
-	strcpy_s(candybar.name, SLEN, name);
+	strcpy_s(candybar.name, name);
 	candybar.weight = weight;
 	candybar.calories = calories;
 	return candybar;

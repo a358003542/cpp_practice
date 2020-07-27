@@ -8,8 +8,8 @@ const int MIN_PER_HR = 60;
 extern bool newcustomer(double x);
 
 
-int main() {
-//int main56() {
+//int main() {
+int main58() {
 	using std::cin;
 	using std::cout;
 	using std::endl;
