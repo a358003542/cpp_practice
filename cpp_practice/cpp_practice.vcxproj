@@ -165,6 +165,7 @@
     <ClCompile Include="test_cctype.cpp" />
     <ClCompile Include="test_func_point.cpp" />
     <ClCompile Include="test_head_file.cpp" />
+    <ClCompile Include="test_inherit.cpp" />
     <ClCompile Include="test_mytime.cpp" />
     <ClCompile Include="test_namesp.cpp" />
     <ClCompile Include="test_stack.cpp" />

@@ -231,6 +231,9 @@
     <ClCompile Include="xiti_c12_4.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test_inherit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="coordin.h">

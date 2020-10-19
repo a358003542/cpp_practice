@@ -100,7 +100,8 @@ bool Stack2::pop(Item& item) {
 }
 
 
-int main() {
+//int main() {
+int main57(){
 	using namespace std;
 
 	Stack2 st1(3);
