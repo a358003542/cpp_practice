@@ -142,6 +142,7 @@
     <ClCompile Include="bank.cpp" />
     <ClCompile Include="cinfish.cpp" />
     <ClCompile Include="cinfish2.cpp" />
+    <ClCompile Include="classic.cpp" />
     <ClCompile Include="complex0.cpp" />
     <ClCompile Include="coordin.cpp" />
     <ClCompile Include="def_func.cpp" />
@@ -162,6 +163,7 @@
     <ClCompile Include="stack.cpp" />
     <ClCompile Include="stonewt.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="test_brass.cpp" />
     <ClCompile Include="test_cctype.cpp" />
     <ClCompile Include="test_func_point.cpp" />
     <ClCompile Include="test_head_file.cpp" />
@@ -176,6 +178,7 @@
     <ClCompile Include="to_usa_mpg.cpp" />
     <ClCompile Include="usa_population.cpp" />
     <ClCompile Include="vector.cpp" />
+    <ClCompile Include="xiti_13_1.cpp" />
     <ClCompile Include="xiti_c10_2.cpp" />
     <ClCompile Include="xiti_c10_3.cpp" />
     <ClCompile Include="xiti_c10_6.cpp" />
@@ -213,6 +216,7 @@
     <ClCompile Include="xiti_c9_4.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="classic.h" />
     <ClInclude Include="complex0.h" />
     <ClInclude Include="coordin.h" />
     <ClInclude Include="golf.h" />

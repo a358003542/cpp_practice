@@ -2,7 +2,8 @@
 #include <iostream>
 
 using std::string;
-
+using std::cout;
+using std::endl;
 
 class TableTennisPlayer {
 private:
@@ -44,10 +45,7 @@ RatedPlayer::RatedPlayer(unsigned int r, const TableTennisPlayer& tp) : TableTen
 
 
 
-int main(void) {
-	using std::cout;
-	using std::endl;
-
+int main59(void) {
 	TableTennisPlayer player1("Tara", "Boomdea", false);
 	RatedPlayer rplayer1(1140, "Mallory", "Duck", true);
 

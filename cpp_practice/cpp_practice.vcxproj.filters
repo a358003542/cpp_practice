@@ -234,6 +234,15 @@
     <ClCompile Include="test_inherit.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test_brass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xiti_13_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="classic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="coordin.h">
@@ -273,6 +282,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="queue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="classic.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
