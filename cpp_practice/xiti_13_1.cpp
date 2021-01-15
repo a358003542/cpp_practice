@@ -9,7 +9,8 @@ void Bravo(const Cd& disk) {
 	disk.Report();
 }
 
-int main() {
+int main61() {
+	//int main61
 	Cd c1("Beatles","Capitol", 14, 35.5);
 	Classic c2 = Classic("Piano Sonata in B flat, Fantasia in C", "Alfred Brendel", "Philips", 2, 57.17);
 	Cd * pcd = &c1;

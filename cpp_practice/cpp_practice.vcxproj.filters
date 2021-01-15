@@ -243,6 +243,9 @@
     <ClCompile Include="classic.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test_member_function_as_function_parameters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="coordin.h">

@@ -2,8 +2,7 @@
 
 using namespace std;
 
-typedef double(*test_func_type)(int);
-void estimate(int , test_func_type);
+void estimate(int, double(*pf)(int));
 double test_func(int a);
 
 
@@ -15,8 +14,8 @@ double test_func(int a) {
 	return b;
 }
 
-void estimate(int repeat, test_func_type pf) {
-	for (int i=0; i < repeat; i++) {
+void estimate(int repeat, double(*pf)(int)) {
+	for (int i = 0; i < repeat; i++) {
 		(*pf)(3);
 	}
 }
