@@ -18,7 +18,7 @@ int res1(int m, int n, AB* obj, int(AB::* fp)(int, int)) {
 int res2(int m, int n, AB* obj, int(AB::* fp2)(int, int)) {
     return (obj->*fp2)(m, n);
 }
-int main() {
+int main_test_member_function_as_function_parameters() {
     AB ob;
     cout << "Subtraction is = " << res1(8, 5, &ob, &AB::sub) << endl;
     cout << "Division is = " << res2(4, 2, &ob, &AB::div) << endl;

@@ -246,6 +246,24 @@
     <ClCompile Include="test_member_function_as_function_parameters.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="helloworld.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_myhead.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myhead.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_add1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_gcd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_swap_int.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="coordin.h">
@@ -288,6 +306,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="classic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myhead.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
